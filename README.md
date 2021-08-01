@@ -1,2 +1,2 @@
 # My-Ds-files
-Simple data structures I made
+Simple c++ data structures I made
