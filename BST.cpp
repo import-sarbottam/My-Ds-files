@@ -1,7 +1,7 @@
+/*Adding a little comment*/
 #include<iostream>
 #include<queue>
 using namespace std;
-
 class tree
 {
 	public:
